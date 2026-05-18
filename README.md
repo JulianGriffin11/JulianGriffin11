@@ -1,12 +1,12 @@
 # Hi, I'm Julian Griffin! 👋
 
-### Statistics Graduate & Data Professional
-I specialize in mathematical strategy, predictive modeling, and turning complex datasets into actionable financial and quantitative insights.
+### Statistics Graduate & Data Expert
+I specialize in turning complex datasets into actionable financial and business insights.
 
 ---
 
 ### 🌐 Connect & Explore
-*   💼 **[Connect with me on LinkedIn](YOUR_LINKEDIN_URL)**
+*   💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/juliangriffin11/)**
 *   📊 **[View My Live Data Portfolio Website](https://yourusername.github.io/yourrepository/)**
 
 ### 🛠️ Technical Toolkit
