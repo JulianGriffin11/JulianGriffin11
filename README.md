@@ -1,4 +1,4 @@
-# Hi, I'm Julian Griffin! 👋
+# Hi there, I'm Julian! 👋
 
 ### Statistics Graduate & Data Expert
 I specialize in turning complex datasets into actionable financial and business insights.
@@ -7,7 +7,7 @@ I specialize in turning complex datasets into actionable financial and business 
 
 ### 🌐 Connect & Explore
 *   💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/juliangriffin11/)**
-*   📊 **[View My Live Data Portfolio Website](https://yourusername.github.io/yourrepository/)**
+*   📊 **[View My Live Data Portfolio Website](https://juliangriffin11.github.io/)**
 
 ### 🛠️ Technical Toolkit
 *   **Languages:** R, Python, SQL (PostgreSQL/MySQL)
@@ -15,5 +15,5 @@ I specialize in turning complex datasets into actionable financial and business 
 *   **Tools:** Git, GitHub, Microsoft Excel
 
 ### 🚀 Featured Portfolio Projects
-*   **[Project Title 1](LINK_TO_REPO_1):** Brief 1-sentence description of what statistical model or data analysis you executed here.
-*   **[Project Title 2](LINK_TO_REPO_2):** Brief 1-sentence description of another project (e.g., a financial DCF model or predictive analysis).
+*   **[Data Job Analysis](https://github.com/JulianGriffin11/Portfolio_Projects/tree/main/Project%202%20-%20Payday%20Perspectives):** I uncover which skills to focus on for the right Data roles and how to stand out in a competitive field. 
+*   **[Customer Spending Analysis](https://github.com/JulianGriffin11/SQL_CX_Analytics):** I replicate how a real company might explore customer lifetime value, acquisition, and churn trends.
