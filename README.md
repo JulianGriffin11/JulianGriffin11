@@ -10,8 +10,8 @@ I specialize in turning complex datasets into actionable financial and business 
 *   📊 **[View My Live Data Portfolio Website](https://juliangriffin11.github.io/)**
 
 ### 🛠️ Toolkit
-*   **Languages:** R, Python, SQL (PostgreSQL/MySQL)
-*   **Data Analysis:** Predictive Modeling, Statistical Computing, Data Pipelines
+*   **Languages:** Python, SQL, R
+*   **Data Analysis:** Predictive Modeling, Data Pipelines
 *   **Tools:** Git, GitHub, Microsoft Excel
 
 ### 🚀 Featured Projects
