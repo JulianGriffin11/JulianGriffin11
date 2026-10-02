@@ -1,6 +1,6 @@
 # Hi there, I'm Julian! 👋
 
-### AI Engineer — RAG Systems, LLM Agents & Data Pipelines
+### AI Engineer — RAG Systems, Agents & Data Pipelines
 I build production AI systems: document Q&A with grounded, cited answers, automated research pipelines, and LLM-powered analysis tools — backed by a statistics degree and deep data expertise.
 
 ---
@@ -10,8 +10,8 @@ I build production AI systems: document Q&A with grounded, cited answers, automa
 *   📊 **[View My Live Data Portfolio Website](https://juliangriffin11.github.io/)**
 
 ### 🛠️ Toolkit
-*   **Languages:** Python, TypeScript, SQL, R
-*   **AI & Data:** RAG Pipelines, LLM Agents, Embeddings & Hybrid Search, Data Pipelines
+*   **Languages:** Python, SQL, TypeScript
+*   **AI & Data:** RAG, Agents, Embeddings & Hybrid Search, Data Pipelines
 *   **Tools:** FastAPI, PostgreSQL / pgvector, Supabase, React, Git, GitHub Actions, Microsoft Excel
 
 ### 🚀 Featured Projects
