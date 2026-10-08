@@ -1,7 +1,7 @@
 # Hi there, I'm Julian! 👋
 
-### AI Engineer — RAG Systems, Agents & Data Pipelines
-I build production AI systems: document Q&A with grounded, cited answers, automated research pipelines, and LLM-powered analysis tools — backed by a statistics degree and deep data expertise.
+### Data, Agents, Analytics & Pipelines
+I build production AI systems: used for analytics, finances, and data backed decision. This is backed by a statistics degree and deep data expertise.
 
 ---
 
@@ -11,8 +11,8 @@ I build production AI systems: document Q&A with grounded, cited answers, automa
 
 ### 🛠️ Toolkit
 *   **Languages:** Python, SQL, TypeScript
-*   **AI & Data:** RAG, Agents, Embeddings & Hybrid Search, Data Pipelines
-*   **Tools:** FastAPI, PostgreSQL / pgvector, Supabase, React, Git, GitHub Actions, Microsoft Excel
+*   **AI & Data:** RAG, Agents, ETL
+*   **Tools:** React, Git, Microsoft Excel, Power BI, Tableau
 
 ### 🚀 Featured Projects
 *   **[Cruise Assistant](https://github.com/JulianGriffin11/Cruise_Assistant):** A RAG pipeline that lets a small business query its own company documents and get answers with page citations.
